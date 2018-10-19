@@ -1,0 +1,6 @@
+#! /usr/bin/env bash
+
+rm elf-concur
+rm edit-package-json.js
+rm elf-remove-server-client
+rm start-client.js
