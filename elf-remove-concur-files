@@ -4,3 +4,4 @@ rm elf-concur
 rm edit-package-json.js
 rm elf-remove-server-client
 rm start-client.js
+rm elf-remove-concur-files
